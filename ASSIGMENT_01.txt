@@ -1,6 +1,6 @@
 	ASSIGMENT_01
 
-	Submit it to: nazir_noori@yahoo.com -> with your name and metric card and section
+	Submit it to: oop_tuts@yahoo.com -> with your name and metric card and section
 
 
 	Enter the # of rows: 20
